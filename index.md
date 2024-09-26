@@ -4,3 +4,5 @@
 #### header 4
 
 meaningful commit message
+
+![](https://octodex.github.com/images/yaktocat.png)
