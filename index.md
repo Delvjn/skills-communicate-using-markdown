@@ -1,3 +1,7 @@
+- [ ] Buy Shirt
+- [x] Groceries
+- [ ] Plumbo
+
 
 
 ```
